@@ -7,7 +7,7 @@
 **Total Batches used for training**  : 4,00,000 \
 **Batch Size**  : 16 \
 **Context length**  : 8 \
-**Learning Rate**  : 0.001\
+**Learning Rate**  : 0.001
 
 ---
 [Tokenization method]\
