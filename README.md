@@ -10,11 +10,11 @@
 **Learning Rate**  : 0.001\
 
 ---
-[Tokenization method]
-Characters Tokenization.\
+[Tokenization method]\
+Characters Tokenization.
 
 ---
-[Underlying model]
+[Underlying model]\
 Used Embedding table for prediction and training.
 
 ---
