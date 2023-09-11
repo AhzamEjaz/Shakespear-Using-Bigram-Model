@@ -19,5 +19,4 @@ Used Embedding table for prediction and training.
 
 ---
 [Results]\
-**Loss**  : 0.081 \
-**Accuracy**  : 68.13%
+**Loss**  : 2.25000
